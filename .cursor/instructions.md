@@ -11,8 +11,10 @@
 ### 2. Required Initial Todo Structure
 ```
 - Do manual testing
+- Report suspicious behavior and bug candidates into seperate file
 - Create test steps to automate
-- **temp** implement test steps
+- Add test steps to scenario file
+- **temp** implement steps as test.step()
 - Run test and verify all done
 ```
 
